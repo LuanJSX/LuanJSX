@@ -42,13 +42,24 @@ Busco sempre aprender algo novo em cada projeto, com foco em evolução contínu
 
 ## 📌 Projetos em destaque
 
-- 🧠 [**Quiz App - Juiz de Fora**](https://github.com/LuanJSX/quiz-app-react)  
+- 🧠 [**Quiz App - Juiz de Fora**]
   Aplicativo interativo de perguntas sobre Juiz de Fora feito com React.
+  https://github.com/user-attachments/assets/adfe8069-9ed0-4232-bf98-4501e93df9c0
 
-- 🌐 [**Landing Page Responsiva**](https://github.com/LuanJSX/react-landing-page-responsive)  
+[video quiz.webm](https://github.com/user-attachments/assets/f1829eec-5198-423d-a929-c6a0655f0f77)
+
+
+- 🌐 [**Landing Page Responsiva**]  
   Interface moderna com suporte a tema escuro, animações e layout adaptável.
+[Pc_landing.webm](https://github.com/user-attachments/assets/c93bcc02-06db-41e8-8157-56b9c9fc76e3)
+
+
+[Pc_landing.webm](https://github.com/user-attachments/assets/22fd81e2-1a1a-4009-82dc-b19c6512967d)
 
 - 🧪 Outros projetos em React, automações e testes com APIs em constante desenvolvimento.
+
+[screen-capture (1).webm](https://github.com/user-attachments/assets/82343b67-7b43-45ae-b522-a356590fc489)
+
 
 ---
 
