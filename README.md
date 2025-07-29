@@ -67,7 +67,7 @@ Busco sempre aprender algo novo em cada projeto, com foco em evolução contínu
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/luan-batista-9223a41a1/)  
 - 📬 luantrabalho49@gmail.com  
-- 🌎 Em breve: portfólio online
+- 🌎 [modern-portfolio](https://modern-portfolio-nine-tau.vercel.app/)
 
 ---
 
